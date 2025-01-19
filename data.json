@@ -1,0 +1,238 @@
+[
+    {
+        "model": "api.usuario",
+        "pk": 1,
+        "fields": {
+            "nombre": "Carlos",
+            "apellido": "Pérez",
+            "correo": "carlos.perez@espol.edu.ec",
+            "contrasena": "contrasena123",
+            "registro": "2025-01-01"
+        }
+    },
+    {
+        "model": "api.usuario",
+        "pk": 2,
+        "fields": {
+            "nombre": "Ana",
+            "apellido": "García",
+            "correo": "ana.garcia@gmail.com",
+            "contrasena": "1234abc",
+            "registro": "2025-01-01"
+        }
+    },
+    {
+        "model": "api.usuario",
+        "pk": 3,
+        "fields": {
+            "nombre": "Luis",
+            "apellido": "Rodríguez",
+            "correo": "luis.rodriguez@gmail.com",
+            "contrasena": "password567",
+            "registro": "2025-01-01"
+        }
+    },
+    {
+        "model": "api.usuario",
+        "pk": 4,
+        "fields": {
+            "nombre": "María",
+            "apellido": "Martínez",
+            "correo": "maria.martinez@hotmail.com",
+            "contrasena": "qwerty123",
+            "registro": "2025-01-01"
+        }
+    },
+    {
+        "model": "api.usuario",
+        "pk": 5,
+        "fields": {
+            "nombre": "Javier",
+            "apellido": "Hernández",
+            "correo": "javier.hernandez@hotmail.com",
+            "contrasena": "abc1234",
+            "registro": "2025-01-01"
+        }
+    },
+    {
+        "model": "api.usuario",
+        "pk": 6,
+        "fields": {
+            "nombre": "Laura",
+            "apellido": "López",
+            "correo": "laura.lopez@espol.edu.ec",
+            "contrasena": "lolo1234",
+            "registro": "2025-01-01"
+        }
+    },
+    {
+        "model": "api.usuario",
+        "pk": 7,
+        "fields": {
+            "nombre": "Felipe",
+            "apellido": "González",
+            "correo": "felipe.gonzalez@hotmail.com",
+            "contrasena": "feli1234",
+            "registro": "2025-01-01"
+        }
+    },
+    {
+        "model": "api.usuario",
+        "pk": 8,
+        "fields": {
+            "nombre": "Sofía",
+            "apellido": "Vázquez",
+            "correo": "sofia.vazquez@hotmail.com",
+            "contrasena": "sof1234",
+            "registro": "2025-01-01"
+        }
+    },
+    {
+        "model": "api.usuario",
+        "pk": 9,
+        "fields": {
+            "nombre": "Pedro",
+            "apellido": "Jiménez",
+            "correo": "pedro.jimenez@hotmail.com",
+            "contrasena": "pedro321",
+            "registro": "2025-01-01"
+        }
+    },
+    {
+        "model": "api.usuario",
+        "pk": 10,
+        "fields": {
+            "nombre": "Elena",
+            "apellido": "Moreno",
+            "correo": "elena.moreno@espol.edu.ec",
+            "contrasena": "elenita123",
+            "registro": "2025-01-01"
+        }
+    },
+    {
+        "model": "api.aeropuerto",
+        "pk": 1,
+        "fields": {
+            "nombre": "Aeropuerto Internacional Mariscal Sucre",
+            "ciudad": "Quito",
+            "pais": "Ecuador",
+            "codigo_iata": "UIO"
+        }
+    },
+    {
+        "model": "api.aeropuerto",
+        "pk": 2,
+        "fields": {
+            "nombre": "Aeropuerto Internacional José Joaquín de Olmedo",
+            "ciudad": "Guayaquil",
+            "pais": "Ecuador",
+            "codigo_iata": "GYE"
+        }
+    },
+    {
+        "model": "api.aeropuerto",
+        "pk": 3,
+        "fields": {
+            "nombre": "Aeropuerto Internacional de Galápagos Seymour",
+            "ciudad": "Isla Baltra",
+            "pais": "Ecuador",
+            "codigo_iata": "GPS"
+        }
+    },
+    {
+        "model": "api.aeropuerto",
+        "pk": 4,
+        "fields": {
+            "nombre": "Aeropuerto Internacional de Cuenca",
+            "ciudad": "Cuenca",
+            "pais": "Ecuador",
+            "codigo_iata": "CUE"
+        }
+    },
+    {
+        "model": "api.vuelo",
+        "pk": 1,
+        "fields": {
+            "origen": "Quito",
+            "destino": "Guayaquil",
+            "fecha": "2025-02-01",
+            "horario": "08:00:00",
+            "disponibilidad": 50,
+            "precio": 150.00
+        }
+    },
+    {
+        "model": "api.vuelo",
+        "pk": 2,
+        "fields": {
+            "origen": "Guayaquil",
+            "destino": "Quito",
+            "fecha": "2025-02-01",
+            "horario": "10:00:00",
+            "disponibilidad": 50,
+            "precio": 150.00
+        }
+    },
+    {
+        "model": "api.reservaxvuelo",
+        "pk": 1,
+        "fields": {
+            "usuario": 1,
+            "vuelo": 1,
+            "fecha_reserva": "2025-02-01",
+            "estado": "confirmada",
+            "asientos": 2
+        }
+    },
+    {
+        "model": "api.reservaxvuelo",
+        "pk": 2,
+        "fields": {
+            "usuario": 2,
+            "vuelo": 2,
+            "fecha_reserva": "2025-02-01",
+            "estado": "pendiente",
+            "asientos": 1
+        }
+    },
+    {
+        "model": "api.pago",
+        "pk": 1,
+        "fields": {
+            "reserva": 1,
+            "monto": 300.00,
+            "metodo_pago": "tarjeta",
+            "fecha_pago": "2025-02-01",
+            "estado": "completado"
+        }
+    },
+    {
+        "model": "api.pago",
+        "pk": 2,
+        "fields": {
+            "reserva": 2,
+            "monto": 150.00,
+            "metodo_pago": "efectivo",
+            "fecha_pago": "2025-02-01",
+            "estado": "pendiente"
+        }
+    },
+    {
+        "model": "api.vueloxaeropuerto",
+        "pk": 1,
+        "fields": {
+            "vuelo": 1,
+            "aeropuerto": 1,
+            "tipo": "origen"
+        }
+    },
+    {
+        "model": "api.vueloxaeropuerto",
+        "pk": 2,
+        "fields": {
+            "vuelo": 1,
+            "aeropuerto": 2,
+            "tipo": "destino"
+        }
+    }
+]

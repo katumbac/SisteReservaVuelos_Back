@@ -1,0 +1,813 @@
+[
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractBaseUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "PermissionsMixin",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "gettext_lazy",
+        "importPath": "django.utils.translation",
+        "description": "django.utils.translation",
+        "isExtraImport": true,
+        "detail": "django.utils.translation",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "importPath": "dj_rest_auth.views",
+        "description": "dj_rest_auth.views",
+        "isExtraImport": true,
+        "detail": "dj_rest_auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "api",
+        "description": "api",
+        "isExtraImport": true,
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "api",
+        "description": "api",
+        "isExtraImport": true,
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "urls",
+        "importPath": "api",
+        "description": "api",
+        "isExtraImport": true,
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "api.views",
+        "description": "api.views",
+        "isExtraImport": true,
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "action",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshToken",
+        "importPath": "rest_framework_simplejwt.tokens",
+        "description": "rest_framework_simplejwt.tokens",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "JWTAuthentication",
+        "importPath": "rest_framework_simplejwt.authentication",
+        "description": "rest_framework_simplejwt.authentication",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "make_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenRefreshView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0001_initial",
+        "description": "api.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Aeropuerto',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('nombre', models.CharField(max_length=150)),",
+        "detail": "api.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0002_user",
+        "description": "api.migrations.0002_user",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('api', '0001_initial'),\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "api.migrations.0002_user",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0003_delete_user",
+        "description": "api.migrations.0003_delete_user",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('api', '0002_user'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='User',\n        ),\n    ]",
+        "detail": "api.migrations.0003_delete_user",
+        "documentation": {}
+    },
+    {
+        "label": "ApiConfig",
+        "kind": 6,
+        "importPath": "api.apps",
+        "description": "api.apps",
+        "peekOfCode": "class ApiConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'api'",
+        "detail": "api.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Usuario",
+        "kind": 6,
+        "importPath": "api.models",
+        "description": "api.models",
+        "peekOfCode": "class Usuario(models.Model):\n    nombre = models.CharField(max_length=100)\n    apellido = models.CharField(max_length=100)\n    correo = models.EmailField(unique=True)\n    contrasena = models.CharField(max_length=255)\n    registro = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return f\"{self.nombre} {self.apellido}\"\nclass Aeropuerto(models.Model):\n    nombre = models.CharField(max_length=150)",
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Aeropuerto",
+        "kind": 6,
+        "importPath": "api.models",
+        "description": "api.models",
+        "peekOfCode": "class Aeropuerto(models.Model):\n    nombre = models.CharField(max_length=150)\n    ciudad = models.CharField(max_length=100)\n    pais = models.CharField(max_length=100)\n    codigo_iata = models.CharField(max_length=3, unique=True)\n    def __str__(self):\n        return self.nombre\nclass Vuelo(models.Model):\n    origen = models.CharField(max_length=100)\n    destino = models.CharField(max_length=100)",
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Vuelo",
+        "kind": 6,
+        "importPath": "api.models",
+        "description": "api.models",
+        "peekOfCode": "class Vuelo(models.Model):\n    origen = models.CharField(max_length=100)\n    destino = models.CharField(max_length=100)\n    fecha = models.DateField()\n    horario = models.TimeField()\n    disponibilidad = models.IntegerField()\n    precio = models.DecimalField(max_digits=10, decimal_places=2)\n    def __str__(self):\n        return f\"{self.origen} -> {self.destino}\"\nclass VueloXAeropuerto(models.Model):",
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "VueloXAeropuerto",
+        "kind": 6,
+        "importPath": "api.models",
+        "description": "api.models",
+        "peekOfCode": "class VueloXAeropuerto(models.Model):\n    vuelo = models.ForeignKey(Vuelo, on_delete=models.CASCADE)\n    aeropuerto = models.ForeignKey(Aeropuerto, on_delete=models.CASCADE)\n    tipo = models.CharField(max_length=7, choices=[('origen', 'Origen'), ('destino', 'Destino')])\n    class Meta:\n        unique_together = ['vuelo', 'aeropuerto', 'tipo']\n    def __str__(self):\n        return f\"{self.vuelo} - {self.aeropuerto} ({self.tipo})\"\nclass ReservaXVuelo(models.Model):\n    ESTADO_CHOICES = [",
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "ReservaXVuelo",
+        "kind": 6,
+        "importPath": "api.models",
+        "description": "api.models",
+        "peekOfCode": "class ReservaXVuelo(models.Model):\n    ESTADO_CHOICES = [\n        ('pendiente', 'Pendiente'),\n        ('confirmada', 'Confirmada'),\n        ('cancelada', 'Cancelada')\n    ]\n    usuario = models.ForeignKey(Usuario, on_delete=models.CASCADE)\n    vuelo = models.ForeignKey(Vuelo, on_delete=models.CASCADE)\n    fecha_reserva = models.DateTimeField(auto_now_add=True)\n    estado = models.CharField(max_length=10, choices=ESTADO_CHOICES)",
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Pago",
+        "kind": 6,
+        "importPath": "api.models",
+        "description": "api.models",
+        "peekOfCode": "class Pago(models.Model):\n    METODO_PAGO_CHOICES = [\n        ('tarjeta', 'Tarjeta'),\n        ('efectivo', 'Efectivo'),\n        ('transferencia', 'Transferencia')\n    ]\n    ESTADO_PAGO_CHOICES = [\n        ('pendiente', 'Pendiente'),\n        ('completado', 'Completado')\n    ]",
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "UsuarioSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class UsuarioSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Usuario\n        fields = \"__all__\"\nclass AeropuertoSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Aeropuerto\n        fields = \"__all__\"\nclass VueloSerializer(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AeropuertoSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class AeropuertoSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Aeropuerto\n        fields = \"__all__\"\nclass VueloSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Vuelo\n        fields = \"__all__\"\nclass ReservaXVueloSerializer(serializers.ModelSerializer):\n    usuario = UsuarioSerializer(read_only=True)",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "VueloSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class VueloSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Vuelo\n        fields = \"__all__\"\nclass ReservaXVueloSerializer(serializers.ModelSerializer):\n    usuario = UsuarioSerializer(read_only=True)\n    vuelo = VueloSerializer(read_only=True)\n    class Meta:\n        model = ReservaXVuelo\n        fields = \"__all__\"",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ReservaXVueloSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class ReservaXVueloSerializer(serializers.ModelSerializer):\n    usuario = UsuarioSerializer(read_only=True)\n    vuelo = VueloSerializer(read_only=True)\n    class Meta:\n        model = ReservaXVuelo\n        fields = \"__all__\"\nclass PagoSerializer(serializers.ModelSerializer):\n    reserva = ReservaXVueloSerializer(read_only=True)\n    class Meta:\n        model = Pago",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "PagoSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class PagoSerializer(serializers.ModelSerializer):\n    reserva = ReservaXVueloSerializer(read_only=True)\n    class Meta:\n        model = Pago\n        fields = \"__all__\"\nclass VueloXAeropuertoSerializer(serializers.ModelSerializer):\n    vuelo = VueloSerializer(read_only=True)\n    aeropuerto = AeropuertoSerializer(read_only=True)\n    class Meta:\n        model = VueloXAeropuerto",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "VueloXAeropuertoSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class VueloXAeropuertoSerializer(serializers.ModelSerializer):\n    vuelo = VueloSerializer(read_only=True)\n    aeropuerto = AeropuertoSerializer(read_only=True)\n    class Meta:\n        model = VueloXAeropuerto\n        fields = \"__all__\"\n    def create(self, validated_data):\n        vuelo_data = validated_data.pop('vuelo')\n        aeropuerto_data = validated_data.pop('aeropuerto')\n        vuelo = Vuelo.objects.get(id=vuelo_data['id_vuelo'])",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "api.urls",
+        "description": "api.urls",
+        "peekOfCode": "urlpatterns = [\n    #Registrar\n    path('registrarse/', RegistrarUsuarioView.as_view(), name=\"Registrarse\"),\n    path('login/', LoginUsuarioView.as_view(), name=\"Login\"),\n    #Vuelo\n    path('vuelos', VueloViewSet.as_view(), name=\"Buscar Vuelos\"),\n    path('vuelos/<int:pk>', VueloViewSet.as_view(), name='Editar vuelo'),\n    path('crear_vuelos', VueloViewSet.as_view(), name=\"Crear Vuelos\"),\n    #Reserva\n    path('reservas', ReservaXVueloViewSet.as_view(), name=\"Reservar Vuelos\"),",
+        "detail": "api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "RegistrarUsuarioView",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class RegistrarUsuarioView(APIView):\n    def post(self, request):\n        try:\n            nombre = request.data.get('nombre')\n            apellido = request.data.get('apellido')\n            correo = request.data.get('correo')\n            contrasena = request.data.get('contrasena')\n            email = correo\n            password = contrasena\n            user = User.objects.create_user(username=email, email=email, password=password)",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoginUsuarioView",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class LoginUsuarioView(APIView):\n    def post(self, request):\n        username = request.data.get('username')\n        password= request.data.get('password')\n        if not username or not password:\n            return Response({'detail': 'Correo y contraseña son requeridos.'}, status=status.HTTP_400_BAD_REQUEST)\n        usuarios = User.objects.all()\n        for usuario in usuarios:\n            print(f\"Username: {usuario.password}, Email: {usuario.email}, Activo: {usuario.is_active}\")\n        print(\"usu\", username)",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "UsuarioViewSet",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class UsuarioViewSet(APIView):\n    queryset = Usuario.objects.all()\n    serializer_class = UsuarioSerializer\n    def get(self, request, usuario_id):\n        try:\n            usuario = Usuario.objects.get(id=usuario_id)\n        except Usuario.DoesNotExist:\n            return Response({\"message\": \"Usuario no encontrado.\"}, status=status.HTTP_404_NOT_FOUND)\n        reservas = ReservaXVuelo.objects.filter(usuario=usuario)\n        if not reservas.exists():",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "AeropuertoViewSet",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class AeropuertoViewSet(APIView):\n    queryset = Aeropuerto.objects.all()\n    serializer_class = AeropuertoSerializer\n    def get(self, request):\n        aeropuerto = Aeropuerto.objects.all()  \n        serializer = AeropuertoSerializer(aeropuerto, many=True)  \n        return Response(serializer.data, status=status.HTTP_200_OK)\nclass VueloViewSet(APIView):\n    queryset = Vuelo.objects.all()\n    serializer_class = VueloSerializer",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "VueloViewSet",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class VueloViewSet(APIView):\n    queryset = Vuelo.objects.all()\n    serializer_class = VueloSerializer\n    def get(self, request):\n        origen = request.data.get('origen')\n        destino = request.data.get('destino')\n        fecha = request.data.get('fecha')\n        vuelos = Vuelo.objects.all()\n        print(vuelos)\n        vuelos = vuelos.filter(origen=origen, destino=destino, fecha=fecha)",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "VueloXAeropuertoViewSet",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class VueloXAeropuertoViewSet(APIView):\n    queryset = VueloXAeropuerto.objects.all()\n    serializer_class = VueloXAeropuertoSerializer\n    def get(self, request):\n        vuelo = VueloXAeropuerto.objects.all()  \n        serializer = VueloXAeropuertoSerializer(vuelo, many=True)  \n        return Response(serializer.data, status=status.HTTP_200_OK)\nclass ReservaXVueloViewSet(APIView):\n    authentication_classes = [JWTAuthentication]\n    permission_classes = [IsAuthenticated]",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReservaXVueloViewSet",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class ReservaXVueloViewSet(APIView):\n    authentication_classes = [JWTAuthentication]\n    permission_classes = [IsAuthenticated]\n    def get(self, request):\n        reservas = ReservaXVuelo.objects.all()  \n        serializer = ReservaXVueloSerializer(reservas, many=True)  \n        return Response(serializer.data, status=status.HTTP_200_OK) \n    def post(self, request):\n        vuelo_id = request.data.get('vuelo')\n        usuario_id = request.data.get('usuario')",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "PagoViewSet",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class PagoViewSet(APIView):\n    queryset = Pago.objects.all()\n    serializer_class = PagoSerializer\n    def get(self, request):\n        pago = Pago.objects.all()  \n        serializer = PagoSerializer(pago, many=True)  \n        return Response(serializer.data, status=status.HTTP_200_OK)",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "reserva_vuelos.asgi",
+        "description": "reserva_vuelos.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "reserva_vuelos.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "reserva_vuelos.settings",
+        "description": "reserva_vuelos.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-@1-0$feb-!y)g%!odti5_&$b)*rt57h4md!k-tds_n0&!sta&e'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['localhost','127.0.0.1']\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "reserva_vuelos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "reserva_vuelos.settings",
+        "description": "reserva_vuelos.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-@1-0$feb-!y)g%!odti5_&$b)*rt57h4md!k-tds_n0&!sta&e'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['localhost','127.0.0.1']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "reserva_vuelos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "reserva_vuelos.settings",
+        "description": "reserva_vuelos.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['localhost','127.0.0.1']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "reserva_vuelos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "reserva_vuelos.settings",
+        "description": "reserva_vuelos.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['localhost','127.0.0.1']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "reserva_vuelos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "reserva_vuelos.settings",
+        "description": "reserva_vuelos.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'rest_framework.authtoken',\n    'rest_framework_simplejwt',",
+        "detail": "reserva_vuelos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "reserva_vuelos.settings",
+        "description": "reserva_vuelos.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_PERMISSION_CLASSES': (\n        'rest_framework.permissions.IsAuthenticated',\n    ),\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ),\n}\nSIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=60),",
+        "detail": "reserva_vuelos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SIMPLE_JWT",
+        "kind": 5,
+        "importPath": "reserva_vuelos.settings",
+        "description": "reserva_vuelos.settings",
+        "peekOfCode": "SIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=60),\n    'SLIDING_TOKEN_REFRESH_LIFETIME': timedelta(days=1),\n    'SLIDING_TOKEN_LIFETIME': timedelta(days=30),\n    'SLIDING_TOKEN_REFRESH_LIFETIME_LATE_USER': timedelta(days=1),\n    'SLIDING_TOKEN_LIFETIME_LATE_USER': timedelta(days=30),\n}\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',",
+        "detail": "reserva_vuelos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "reserva_vuelos.settings",
+        "description": "reserva_vuelos.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'reserva_vuelos.urls'",
+        "detail": "reserva_vuelos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "reserva_vuelos.settings",
+        "description": "reserva_vuelos.settings",
+        "peekOfCode": "ROOT_URLCONF = 'reserva_vuelos.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "reserva_vuelos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "reserva_vuelos.settings",
+        "description": "reserva_vuelos.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "reserva_vuelos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "reserva_vuelos.settings",
+        "description": "reserva_vuelos.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'reserva_vuelos.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'reserva_vuelos',\n        'PORT': 3306,\n        'USER': 'root',\n        'PASSWORD': 'root'",
+        "detail": "reserva_vuelos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "reserva_vuelos.settings",
+        "description": "reserva_vuelos.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'reserva_vuelos',\n        'PORT': 3306,\n        'USER': 'root',\n        'PASSWORD': 'root'\n    }\n}\n# Password validation",
+        "detail": "reserva_vuelos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "reserva_vuelos.settings",
+        "description": "reserva_vuelos.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "reserva_vuelos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "reserva_vuelos.settings",
+        "description": "reserva_vuelos.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "reserva_vuelos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "reserva_vuelos.settings",
+        "description": "reserva_vuelos.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "reserva_vuelos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "reserva_vuelos.settings",
+        "description": "reserva_vuelos.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "reserva_vuelos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "reserva_vuelos.settings",
+        "description": "reserva_vuelos.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "reserva_vuelos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "reserva_vuelos.settings",
+        "description": "reserva_vuelos.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "reserva_vuelos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "reserva_vuelos.settings",
+        "description": "reserva_vuelos.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "reserva_vuelos.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "reserva_vuelos.urls",
+        "description": "reserva_vuelos.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/auth/', include('api.urls')),\n    path('api/', include(api_urls)),\n    path('api/token/', TokenObtainPairView.as_view(), name='token_obtain_pair'),\n    path('api/token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),\n]",
+        "detail": "reserva_vuelos.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "reserva_vuelos.wsgi",
+        "description": "reserva_vuelos.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "reserva_vuelos.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'reserva_vuelos.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
